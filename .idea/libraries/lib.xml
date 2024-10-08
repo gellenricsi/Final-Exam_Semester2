@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/lombok-1.18.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-jupiter-params-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-jupiter-api-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/lombok-1.18.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-platform-commons-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/log4j-api-2.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-jupiter-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/error_prone_annotations-2.27.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/log4j-core-2.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-jupiter-engine-5.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/junit-platform-engine-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExamTempleOffline/lib/opentest4j-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
